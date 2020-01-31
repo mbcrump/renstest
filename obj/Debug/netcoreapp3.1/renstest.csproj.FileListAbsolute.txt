@@ -1,0 +1,11 @@
+C:\Users\Michael Crump\source\renstest\bin\Debug\netcoreapp3.1\renstest.exe
+C:\Users\Michael Crump\source\renstest\bin\Debug\netcoreapp3.1\renstest.deps.json
+C:\Users\Michael Crump\source\renstest\bin\Debug\netcoreapp3.1\renstest.runtimeconfig.json
+C:\Users\Michael Crump\source\renstest\bin\Debug\netcoreapp3.1\renstest.runtimeconfig.dev.json
+C:\Users\Michael Crump\source\renstest\bin\Debug\netcoreapp3.1\renstest.dll
+C:\Users\Michael Crump\source\renstest\bin\Debug\netcoreapp3.1\renstest.pdb
+C:\Users\Michael Crump\source\renstest\obj\Debug\netcoreapp3.1\renstest.csprojAssemblyReference.cache
+C:\Users\Michael Crump\source\renstest\obj\Debug\netcoreapp3.1\renstest.AssemblyInfoInputs.cache
+C:\Users\Michael Crump\source\renstest\obj\Debug\netcoreapp3.1\renstest.AssemblyInfo.cs
+C:\Users\Michael Crump\source\renstest\obj\Debug\netcoreapp3.1\renstest.dll
+C:\Users\Michael Crump\source\renstest\obj\Debug\netcoreapp3.1\renstest.pdb
