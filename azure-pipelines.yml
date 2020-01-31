@@ -38,4 +38,4 @@ steps:
   inputs:
     gitHubConnection: 'github connection 1'
     tagSource: userSpecifiedTag
-    tag: RC
+    tag: RC1
