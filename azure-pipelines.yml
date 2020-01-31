@@ -32,3 +32,10 @@ steps:
     projects: '**/*.csproj'
     arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: True
+
+- task: GitHubRelease@1
+  displayName: 'GitHub release (create)'
+  inputs:
+    gitHubConnection: 'github connection 1'
+    tagSource: userSpecifiedTag
+    tag: RC
